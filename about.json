@@ -1,0 +1,28 @@
+{
+  "name": "Black-and-white",
+  "about_url": "",
+  "license_url": "",
+  "author": "Amaresh Muddebihal"
+  "color_schemes": {
+    "sublime-light": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "29A0B1",
+      "highlight": "CFE0EA",
+      "header_background": "ffffff",
+      "header_primary": "111111"
+    },
+    "sublime-dark": {
+      "primary": "f2f2f2",
+      "secondary": "000000",
+      "tertiary": "29A0B1",
+      "highlight": "CFE0EA",
+      "header_background": "111111",
+      "header_primary": "dddddd"
+    }
+  },
+  "components": [
+    "https://github.com/discourse/discourse-loading-slider.git",
+    "https://github.com/discourse/discourse-search-banner.git"
+  ]
+}

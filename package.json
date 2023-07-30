@@ -1,0 +1,7 @@
+{
+  "author": "Amaresh Muddebihal",
+  "license": "",
+  "devDependencies": {
+    "eslint-config-discourse": "latest"
+  }
+}
